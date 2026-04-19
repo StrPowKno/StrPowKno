@@ -12,10 +12,8 @@ I enjoy solving real‑world problems with clean, efficient code, and I'm equall
 My recent interest lies in the intersection of blockchain and traditional web — I believe Web3 will reshape how we think about ownership and trust online.
 
 ### ⚙️ Tech Stack
-```json
-{
-"name" : "amir"
-}
+```go
+name string := "Amir"
 ```
 
 ### 📫 Let's connect
