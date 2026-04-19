@@ -1,6 +1,4 @@
-  # 👋 Hi, I'm Demolition
-
-**Backend Developer** | **Frontend Enthusiast** | **Web3 & Blockchain Explorer**
+Demolition, **Backend Developer** | **Frontend Enthusiast** | **Web3 & Blockchain Explorer**
 
 ---
 
