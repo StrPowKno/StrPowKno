@@ -1,4 +1,4 @@
-> *"Hey I'm Demolition, **Backend Developer**,  **Frontend Enthusiast**,  **Web3 & Blockchain Explorer**"*
+Welcome To Demolition's GitHub Page (:
 
 <div align="center">
 <hr>
