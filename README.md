@@ -1,4 +1,4 @@
-> Hey I'm Demolition, **Backend Developer**,  **Frontend Enthusiast**,  **Web3 & Blockchain Explorer**
+Hey I'm Demolition, **Backend Developer**,  **Frontend Enthusiast**,  **Web3 & Blockchain Explorer**
 
 <div align="center">
 <hr>
