@@ -11,6 +11,7 @@ What started as curiosity has turned into a daily drive — every day I learn so
 I enjoy solving real‑world problems with clean, efficient code, and I'm equally comfortable working on the server side (Go, PHP) as I am crafting frontend interfaces.  
 My recent interest lies in the intersection of blockchain and traditional web — I believe Web3 will reshape how we think about ownership and trust online.
 
+### ⚙️ Tech Stack
 
 ### 📫 Let's connect
 
@@ -19,5 +20,5 @@ I'm always open to learning from others and contributing to meaningful projects.
 
 > *"Stay curious, stay building."*
 
-📍 Iran · 🧑‍💻 16 years old · 🧱 Male
+📍 Iran · 🧑‍💻 16 years old · 🧱 Backend first, always
 </div>
