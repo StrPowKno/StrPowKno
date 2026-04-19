@@ -1,13 +1,5 @@
-Demolition, **Backend Developer**,  **Frontend Enthusiast**,  **Web3 & Blockchain Explorer**
+Hey I'm Demolition, **Backend Developer**,  **Frontend Enthusiast**,  **Web3 & Blockchain Explorer**
 
----
-
-### 🧰 Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, PHP, Go  
-- **Databases:** SQLite, MySQL (PDO), PostgreSQL  
-- **Areas of Expertise:** Backend architecture, RESTful APIs, database design, full‑stack development  
-- **Currently diving into:** Web3, blockchain technologies, and decentralised applications  
 <div align="center">
 <hr>
 
