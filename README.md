@@ -5,10 +5,9 @@
 
 ### 🧰 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, PHP, Go  
-- **Databases:** SQLite, MySQL (PDO), PostgreSQL  
-- **Areas of Expertise:** Backend architecture, RESTful APIs, database design, full‑stack development  
-- **Currently diving into:** Web3, blockchain technologies, and decentralised applications  
+HTML, CSS, JavaScript, PHP, Go  
+SQLite, MySQL (PDO), PostgreSQL  
+Backend architecture, RESTful APIs, database design, full‑stack development  
 
 ---
 
