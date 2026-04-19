@@ -19,5 +19,5 @@ I'm always open to learning from others and contributing to meaningful projects.
 
 > *"Stay curious, stay building."*
 
-📍 Iran · 🧑‍💻 16 years old · 🧱 Backend first, always
+📍 Iran · 🧑‍💻 16 years old · 🧱 Male
 </div>
