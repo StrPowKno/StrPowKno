@@ -10,9 +10,9 @@
 - **Databases:** SQLite, MySQL (PDO), PostgreSQL  
 - **Areas of Expertise:** Backend architecture, RESTful APIs, database design, full‑stack development  
 - **Currently diving into:** Web3, blockchain technologies, and decentralised applications  
-
----
 <div align="center">
+---
+
 ### 🚀 About Me
 
 I'm a 16‑year‑old developer from Iran with a deep passion for building things that live on the web.  
