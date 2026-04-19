@@ -1,5 +1,5 @@
 <div align="center">
-## Demolition - FullStack Website Developer 
+<h2> Demolition - FullStack Website Developer <h2> 
 <h4>**Backend Developer** | **Frontend Enthusiast** | **Web3 & Blockchain Explorer**</h4>
 </div>
 <div align="center">
