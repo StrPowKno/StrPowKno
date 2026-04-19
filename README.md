@@ -11,7 +11,7 @@
 - **Areas of Expertise:** Backend architecture, RESTful APIs, database design, full‑stack development  
 - **Currently diving into:** Web3, blockchain technologies, and decentralised applications  
 <div align="center">
----
+<hr>
 
 ### 🚀 About Me
 
