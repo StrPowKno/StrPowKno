@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Demolition 🚀 FullStack Website Developer</h1>
+<h1>Demolition - FullStack Website Developer 🚀</h1>
 </div>
 <div align="center">
   
