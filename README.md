@@ -1,4 +1,4 @@
-
+<div align="center">
 **Backend Developer** | **Frontend Enthusiast** | **Web3 & Blockchain Explorer**
 
 ---
@@ -32,3 +32,5 @@ I'm always open to learning from others and contributing to meaningful projects.
 --- 
 
 📍 Iran · 🧑‍💻 16 years old · 🧱 Backend first, always
+
+</div>
