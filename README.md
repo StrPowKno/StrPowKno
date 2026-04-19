@@ -1,16 +1,18 @@
-<div align="center">
+  # 👋 Hi, I'm Demolition
+
 **Backend Developer** | **Frontend Enthusiast** | **Web3 & Blockchain Explorer**
 
 ---
 
 ### 🧰 Tech Stack
 
-HTML, CSS, JavaScript, PHP, Go  
-SQLite, MySQL (PDO), PostgreSQL  
-Backend architecture, RESTful APIs, database design, full‑stack development  
+- **Languages:** HTML, CSS, JavaScript, PHP, Go  
+- **Databases:** SQLite, MySQL (PDO), PostgreSQL  
+- **Areas of Expertise:** Backend architecture, RESTful APIs, database design, full‑stack development  
+- **Currently diving into:** Web3, blockchain technologies, and decentralised applications  
 
 ---
-
+<div align="center">
 ### 🚀 About Me
 
 I'm a 16‑year‑old developer from Iran with a deep passion for building things that live on the web.  
@@ -31,5 +33,4 @@ I'm always open to learning from others and contributing to meaningful projects.
 --- 
 
 📍 Iran · 🧑‍💻 16 years old · 🧱 Backend first, always
-
 </div>
