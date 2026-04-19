@@ -1,4 +1,4 @@
-Welcome To Demolition's GitHub Page (:
+
 
 <div align="center">
 <hr>
