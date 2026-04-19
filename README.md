@@ -25,7 +25,7 @@ fmt.Println("Demolition's TechStack -> \n" , Languages , "\n" , Databases , "\n"
 
 Feel free to explore my repositories, open issues, or reach out for collaboration.  
 I'm always open to learning from others and contributing to meaningful projects.
-
+[Discord](https://discord.com)
 > *"Stay curious, stay building."*
 
 📍 Iran · 🧑‍💻 16 years old · 🧱 Backend first, always
