@@ -1,7 +1,4 @@
-
-
 <div align="center">
-<hr>
 
 ### 🚀 About Me
 
