@@ -1,30 +1,45 @@
 <div align="center">
 
-### 🚀 About Me
+# 🚀 Quick Introduction
 
-I'm a 16‑year‑old developer from Iran with a deep passion for building things that live on the web.  
-What started as curiosity has turned into a daily drive — every day I learn something new, and every day my love for programming grows stronger.
+Hello :D
+I'm Soashiant and im 13-Years old (born on 2013)
+Im trying to be a Full-Stack Developer! 😃
 
-I enjoy solving real‑world problems with clean, efficient code, and I'm equally comfortable working on the server side (Go, PHP) as I am crafting frontend interfaces.  
-My recent interest lies in the intersection of blockchain and traditional web — I believe Web3 will reshape how we think about ownership and trust online.
 
-### ⚙️ Tech Stack
-```go
-import "fmt"
+I like to build fun/intresting project, and i love to help people build their projects! 
 
-Languages := "HTML, CSS, JavaScript, PHP, Go"
-Databases := "SQLite, MySQL (PDO), PostgreSQL"
-AreasOfExpertise := "Backend architecture, RESTful APIs, database design, full‑stack development"
-fmt.Println("Demolition's TechStack -> \n" , Languages , "\n" , Databases , "\n" , AreasOfExpertise )
-```
+I think teamwork and building projects together will have a better result than solo projects.
 
-### 📫 Let's connect
+## ⚙️ Tech Stack
+
+### **The Languages i know**:
+
+Python (*yes only python*)
+
+### **The BackEnd Languages that i'm learning**:
+
+Python Populer Libraries.
+
+C++
+
+Java
+### **The FrontEnd Languages that i'm learning**:
+
+HTML
+
+CSS
+
+JavaScript
+
+# 📫 Let's connect
 
 Feel free to explore my repositories, open issues, or reach out for collaboration.  
-I'm always open to learning from others and contributing to meaningful projects.
-<br>[Discord](https://discord.gg/dcMRfbHB9s) | [Website](http://demolition.ir) | [Telegram](https://t.me/amodemoli) | [Instagram](https://instagram.com/demolition.ofc)
-> *"Stay curious, stay building."*
+I'm always open to learning from others and contributing to projects.
+<br> My [Telegram](https://t.me/Phoenixbr3) 
 
-📍 Iran · 🧑‍💻 16 years old · 🧱 Backend first, always
+
+
+📍 Tehran · 🧑‍💻 13 years old 
 </div>
  
