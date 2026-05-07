@@ -1,6 +1,7 @@
-<div align="center">
 
-```ascii
+
+```
+
 SSSSSSS   PPPPPPP   KK   KK
 SSS       PPP  PPP  KK  KK
 SSSSSSS   PPPPPPP   KKKK
@@ -8,7 +9,6 @@ SSSSSSS   PPPPPPP   KKKK
 SSSSSSS   PPP       KK   KK
 
 ```
-
 
 
 # 🚀 Quick Introduction
@@ -50,10 +50,13 @@ used_IDEs = ["VScode", "Visual Studio"]
 
 Feel free to explore my repositories, open issues, or reach out for collaboration.  
 I'm always open to learning from others and contributing to projects.
+<div align="center">
+
 <br> My [Telegram](https://t.me/Phoenixbr3) 
 
 
 
 📍 Tehran · 🧑‍💻 13 years old 
+
 </div>
  
