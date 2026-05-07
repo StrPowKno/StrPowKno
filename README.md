@@ -52,9 +52,10 @@ Feel free to explore my repositories, open issues, or reach out for collaboratio
 I'm always open to learning from others and contributing to projects.
 <div align="center">
 
-<br> My [Telegram](https://t.me/Phoenixbr3) 
+<br>
+Aliases: Phoenix | PhoenixBr3 | Alphonse | Soren
 
-
+My [Telegram](https://t.me/Phoenixbr3) 
 
 📍 Tehran · 🧑‍💻 13 years old 
 
