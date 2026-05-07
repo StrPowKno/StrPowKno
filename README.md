@@ -19,11 +19,11 @@ I'm Soashiant and im 13-years old (born on 2013)
 Im trying to be a Full-Stack Developer! 😃
 
 
-I like to build fun/intresting project, and i love to help people build their projects! 
+I like to build fun/intresting project, and i love to help people build their projects! 😁
 
 I think teamwork and building projects together will have a better result than solo projects.
 
-**BUT** For small projects that are personal i think teamwork would just make it worse.
+**BUT** For small projects that are personal i think teamwork would just make it worse...
 
 ## ⚙️ Tech Stack
 
