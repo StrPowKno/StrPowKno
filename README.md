@@ -1,8 +1,20 @@
 <div align="center">
 
+```ascii
+SSSSSSS   PPPPPPP   KK   KK
+SSS       PPP  PPP  KK  KK
+SSSSSSS   PPPPPPP   KKKK
+   SSS    PPP       KK  KK
+SSSSSSS   PPP       KK   KK
+
+```
+
+
+
 # 🚀 Quick Introduction
 
 Hello :D
+
 I'm Soashiant and im 13-Years old (born on 2013)
 Im trying to be a Full-Stack Developer! 😃
 
@@ -11,26 +23,28 @@ I like to build fun/intresting project, and i love to help people build their pr
 
 I think teamwork and building projects together will have a better result than solo projects.
 
+**BUT** For small projects that are personal i think teamwork would just make it worse.
+
 ## ⚙️ Tech Stack
 
-### **The Languages i know**:
+```python
+import MyTechStack
 
-Python (*yes only python*)
+name = "Soashiant"
 
-### **The BackEnd Languages that i'm learning**:
+occupation = "Student"
 
-Python Populer Libraries.
 
-C++
+known_languages = ["Python", "Markdown"]
 
-Java
-### **The FrontEnd Languages that i'm learning**:
+learning_backend = ["Python Libraries", "C++", "Java"]
 
-HTML
+learning_frontend = [ "HTML", "CSS", "JavaScript"]
 
-CSS
+planning_to_learn = ["C#", "SQL", "TypeScript", "Golang", "Rust"]
 
-JavaScript
+used_IDEs = ["VScode", "Visual Studio"]
+```
 
 # 📫 Let's connect
 
