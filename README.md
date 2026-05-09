@@ -30,7 +30,7 @@ I think teamwork and building projects together will have a better result than s
 ```python
 import MyTechStack
 
-name = "Soashiant"
+alias = "Phoenix"
 
 occupation = "Student"
 
