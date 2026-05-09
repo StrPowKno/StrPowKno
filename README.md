@@ -15,7 +15,7 @@ SSSSSSS   PPP       KK   KK
 
 Hello :D
 
-I'm Soashiant and im 13-years old (born on 2013)
+I'm Phoenix (Not my real name tho 😅) and im 13-years old (born on 2013)
 Im trying to be a Full-Stack Developer! 😃
 
 
