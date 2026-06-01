@@ -53,7 +53,7 @@ I'm always open to learning from others and contributing to projects.
 <div align="center">
 
 <br>
-Aliases: Phoenix | PhoenixBr3 | Alphonse | Soren
+Aliases: Phoenix | PhoenixBr3 | Salvador | ꜱᴀʟᴠᴀᴅᴏʀ | Alphonse | Soren 
 
 My [Telegram](https://t.me/Phoenixbr3) 
 
