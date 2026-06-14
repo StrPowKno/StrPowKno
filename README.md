@@ -21,13 +21,68 @@ Im trying to be a Full-Stack Developer! 😃
 
 I like to build fun/intresting project, and i love to help people build their projects! 😁
 
-I think teamwork and building projects together will have a better result than solo projects.
-
-**BUT** For small projects that are personal i think teamwork would just make it worse...
 
 ## ⚙️ Tech Stack
 
-<!--
+
+```json
+
+{
+  "alias": "Phoenix",
+  "role": "Student",
+  "stack": {
+    "known": ["Python", "HTML5"],
+    "learning": ["CSS", "JavaScript"],
+    "tools": ["VS Code", "Vim", "nano"],
+    "systems": ["Windows", "Ubuntu"]
+  }
+}
+
+```
+
+# 🧠 Projects
+
+- [Formula Center](https://github.com/StrPowKno/Formula-center)
+
+
+## 🧪 Expriments
+
+- Making my own website (HTML/CSS/JS, in progress)
+- Python CLI toolkit (Editting scripts)
+
+
+## 🎯 Current Focus
+
+1. Learn how to use flask
+2. Build small tools for my toolkit
+3. Automate some linux scripts
+
+
+
+# 📫 Let's connect
+
+Feel free to explore my repositories, open issues, or reach out for collaboration.  
+I'm always open to learning from others and contributing to projects.
+<div align="center">
+
+<br>
+Aliases: Phoenix | PhoenixBr3 | Salvador | ꜱᴀʟᴠᴀᴅᴏʀ | Alphonse | Soren 
+
+<br>
+<br>
+
+<img alt="My Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=t.me%2Fstrpowkno">
+
+📍 Tehran · 🧑‍💻 13 years old 
+
+</div>
+
+
+
+
+
+
+ <!--
 ### Known Languages
 
 <div style="display:inline;">
@@ -78,39 +133,3 @@ I think teamwork and building projects together will have a better result than s
 </div>
 
 -->
-
-```python
-import MyTechStack
-
-alias = "Phoenix"
-
-occupation = "Student"
-
-
-known_languages = ["Python", "Markdown"]
-
-learning_backend = ["Python Libraries", "C++", "Java"]
-
-learning_frontend = [ "HTML", "CSS", "JavaScript"]
-
-planning_to_learn = ["C#", "SQL", "TypeScript", "Golang", "Rust"]
-
-used_IDEs = ["VScode", "Visual Studio"]
-```
-
-
-# 📫 Let's connect
-
-Feel free to explore my repositories, open issues, or reach out for collaboration.  
-I'm always open to learning from others and contributing to projects.
-<div align="center">
-
-<br>
-Aliases: Phoenix | PhoenixBr3 | Salvador | ꜱᴀʟᴠᴀᴅᴏʀ | Alphonse | Soren 
-
-My [Telegram](https://t.me/Phoenixbr3) 
-
-📍 Tehran · 🧑‍💻 13 years old 
-
-</div>
- 
