@@ -48,7 +48,7 @@ I like to build fun/intresting project, and i love to help people build their pr
 ## 🧪 Expriments
 
 - Making my own website (HTML/CSS/JS, in progress)
-- Python CLI toolkit (Editting scripts)
+- Python CLI toolkit (building and improving scripts)
 
 
 ## 🎯 Current Focus
@@ -71,7 +71,7 @@ Aliases: Phoenix | PhoenixBr3 | Salvador | ꜱᴀʟᴠᴀᴅᴏʀ | Alphonse | S
 <br>
 <br>
 
-<img alt="My Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=t.me%2Fstrpowkno">
+<img alt="My Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=t.me/strpowkno">
 
 📍 Tehran · 🧑‍💻 13 years old 
 
