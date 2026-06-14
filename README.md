@@ -71,7 +71,7 @@ Aliases: Phoenix | PhoenixBr3 | Salvador | ꜱᴀʟᴠᴀᴅᴏʀ | Alphonse | S
 <br>
 <br>
 
-<img alt="My Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=t.me/strpowkno">
+[<img alt="My Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&link=t.me/strpowkno">](https://t.me/strpowkno)
 
 📍 Tehran · 🧑‍💻 13 years old 
 
