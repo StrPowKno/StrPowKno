@@ -9,8 +9,7 @@ SSSSSSS   PPPPPPP   KKKK
 SSSSSSS   PPP       KK   KK
 
 ```
-
-
+<a style="position:centered;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=33B5F7&center=true&vCenter=true&width=435&lines=Building%2C+breaking%2C+learning.;rm+-rf+%2F;Automate+the+boring+stuff.;Readable+%3E+clever.;delete+system32;Debugging+at+3%3A00AM" alt="Typing SVG" /></a>
 # 🚀 Quick Introduction
 
 Hello :D
@@ -56,6 +55,17 @@ I like to build fun/intresting project, and i love to help people build their pr
 1. Learn how to use flask
 2. Build small tools for my toolkit
 3. Automate some linux scripts
+
+
+
+# 💽 Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StrPowKno&count_private=true&show_icons=true&title_color=00CED1&text_color=c9d1d9&icon_color=00CED1&border_color=30363d&bg_color=0d1117" alt="Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=StrPowKno&count_private=true&show_icons=true&title_color=00CED1&text_color=c9d1d9&icon_color=00CED1&border_color=30363d&bg_color=0d1117&layout=compact" alt="Languages" />
+</p>
+
+
+
 
 
 
