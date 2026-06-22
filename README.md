@@ -42,11 +42,11 @@ I like to build fun/intresting project, and i love to help people build their pr
 # 🧠 Projects
 
 - [Formula Center](https://github.com/StrPowKno/Formula-center)
+- [My Website](https://strpowkno.github.io)
 
 
 ## 🧪 Expriments
 
-- Making my own website (HTML/CSS/JS, in progress)
 - Python CLI toolkit (building and improving scripts)
 
 
