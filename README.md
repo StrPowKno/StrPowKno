@@ -43,6 +43,7 @@ I like to build fun/intresting project, and i love to help people build their pr
 
 - [Formula Center](https://github.com/StrPowKno/Formula-center)
 - [My Website](https://strpowkno.github.io)
+- [ProtoAI](https://github.com/strpowkno/protoai)
 
 
 ## 🧪 Expriments
