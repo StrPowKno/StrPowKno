@@ -53,7 +53,7 @@ I like to build fun/intresting project, and i love to help people build their pr
 
 ## 🎯 Current Focus
 
-1. Learn how to use flask
+1. Learn C/C++
 2. Build small tools for my toolkit
 3. Automate some linux scripts
 
