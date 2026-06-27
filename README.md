@@ -9,7 +9,7 @@ SSSSSSS   PPPPPPP   KKKK
 SSSSSSS   PPP       KK   KK
 
 ```
-<a style="position:centered;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=33B5F7&center=true&vCenter=true&width=435&lines=Building%2C+breaking%2C+learning.;rm+-rf+%2F;Automate+the+boring+stuff.;Readable+%3E+clever.;delete+system32;Debugging+at+3%3A00AM" alt="Typing SVG" /></a>
+<a style="position:centered;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=33B5F7&center=true&vCenter=true&width=435&lines=rm+-rf+%2F;Automate+the+boring+stuff.;Readable+%3E+clever.;delete+system32;Debugging+at+3%3A00AM" alt="Typing SVG" /></a>
 # 🚀 Quick Introduction
 
 Hello :D
