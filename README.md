@@ -18,7 +18,7 @@ I'm Phoenix (Not my real name tho 😅) and im 13-years old (born on 2013)
 I'm interested in systems programming, Linux, and developer tools.! 😃
 
 
-I like to build fun/intresting project, and i love to help people build their projects! 😁
+I like to build fun/interesting projects, and i love to help people build their projects! 😁
 
 
 ## ⚙️ Tech Stack
