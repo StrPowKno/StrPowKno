@@ -9,13 +9,13 @@ SSSSSSS   PPPPPPP   KKKK
 SSSSSSS   PPP       KK   KK
 
 ```
-<a style="position:centered;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=33B5F7&center=true&vCenter=true&width=435&lines=rm+-rf+%2F;Automate+the+boring+stuff.;Readable+%3E+clever.;delete+system32;Debugging+at+3%3A00AM" alt="Typing SVG" /></a>
+<a style="position:centered;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&pause=1000&color=33B5F7&center=true&vCenter=true&width=435&lines=sudo+rm+-rf+%2F;Automate+the+boring+stuff.;Readable+%3E+clever.;delete+system32;Debugging+at+3%3A00AM" alt="Typing SVG" /></a>
 # 🚀 Quick Introduction
 
 Hello :D
 
 I'm Phoenix (Not my real name tho 😅) and im 13-years old (born on 2013)
-Im trying to be a Full-Stack Developer! 😃
+I'm interested in systems programming, Linux, and developer tools.! 😃
 
 
 I like to build fun/intresting project, and i love to help people build their projects! 😁
