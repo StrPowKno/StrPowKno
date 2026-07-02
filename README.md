@@ -30,9 +30,10 @@ I like to build fun/intresting project, and i love to help people build their pr
   "alias": "Phoenix",
   "role": "Student",
   "stack": {
-    "known": ["Python", "HTML5"],
-    "learning": ["CSS", "JavaScript"],
+    "known": ["Python", "HTML5", "C"],
+    "learning": ["CSS", "JavaScript", "more C", "C++"],
     "tools": ["VS Code", "Vim", "nano"],
+    "frameworks": ["Flask"],
     "systems": ["Windows", "Ubuntu"]
   }
 }
@@ -44,11 +45,12 @@ I like to build fun/intresting project, and i love to help people build their pr
 - [Formula Center](https://github.com/StrPowKno/Formula-center)
 - [My Website](https://strpowkno.github.io)
 - [ProtoAI](https://github.com/strpowkno/protoai)
-
+- [TidyBox](https://github.com/strpowkno/tidybox)
 
 ## 🧪 Expriments
 
 - Python CLI toolkit (building and improving scripts)
+
 
 
 ## 🎯 Current Focus
@@ -56,7 +58,8 @@ I like to build fun/intresting project, and i love to help people build their pr
 1. Learn C/C++
 2. Build small tools for my toolkit
 3. Automate some linux scripts
-
+4. Make a kernel on C
+5. Write a language on C
 
 
 # 💽 Stats
